@@ -10,6 +10,7 @@ import styled from 'styled-components';
 const NewCard = styled(Card)`
   width: 30%;
   margin: 1%;
+  border: 1px solid black;
 `;
 
 const NewDiv = styled.div`

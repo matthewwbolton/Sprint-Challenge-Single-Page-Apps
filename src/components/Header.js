@@ -23,6 +23,7 @@ export default function Header() {
       <NewLink to='/'>Home</NewLink> 
       <NewLink to='/characters'>Characters</NewLink>
       <NewLink to='/locations'>Locations</NewLink>
+      <NewLink to='/episodes'>Episodes</NewLink>
       </NewDiv>
     </header>
   );

@@ -31,7 +31,6 @@ const CharacterCard = (props) => {
           <CardTitle>{elem.name}</CardTitle>
           <CardSubtitle>Species: {elem.species}</CardSubtitle>
           <CardText>Gender: {elem.gender}</CardText>
-          <Button>Button</Button>
         </NewCardBody>
       </NewCard>
       ))}
