@@ -1,3 +1,9 @@
 import React, { useEffect, useState } from "react";
 
-export default function LocationsList() {}
+const LocationsList = () => {
+    
+    
+    return;
+};
+
+export default LocationsList;
